@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Courgette|Merienda|Montserrat+Subrayada|Nosifer|Sedgwick+Ave|Sedgwick+Ave+Display|Ubuntu|UnifrakturCook:700|VT323');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Croissant+One|Goblin+One|Kaushan+Script|Life+Savers|Lobster|Megrim|Merienda+One|Oleo+Script|Rammetto+One|Rozha+One|Yesteryear|Aclonica|Alegreya|Amatic+SC|Arizonia|Carter+One|Chonburi|Cutive+Mono|Emblema+One|Fredoka+One|Lobster|Londrina+Shadow|Martel|Merienda+One|Pacifico|Prompt|Racing+Sans+One|Redressed|Syncopate|Ultra|Yellowtail');
+
+.anton{font-family: 'Anton', sans-serif;}
+
+.Courgette{  font-family: 'Courgette', cursive;}
+
+.Sedgwick{font-family: 'Sedgwick Ave', cursive;}
+
+.Sedgwick-display{font-family: 'Sedgwick Ave Display', cursive;}
+
+.Ubuntu{font-family: 'Ubuntu', sans-serif;}
+
+.VT323{font-family: 'VT323', monospace;}
+
+.pressStart{font-family: 'Press Start 2P', cursive;}
+
+.Merienda{font-family: 'Merienda', cursive;}
+
+.Montserrat{font-family: 'Montserrat Subrayada', sans-serif;}
+
+.UnifrakturCook{font-family: 'UnifrakturCook', cursive;}
+
+.Nosifer{font-family: 'Nosifer', cursive;}
+
+.lobster{
+  font-family: 'Lobster', cursive;
+}
+
+.courgette{
+  font-family: 'Courgette', cursive;
+}
+
+.kaushan{
+  font-family: 'Kaushan Script', cursive;
+}
+
+.oleo{
+  font-family: 'Oleo Script', cursive;
+}
+
+.yesteryear{
+  font-family: 'Yesteryear', cursive;
+}
+
+.merienda{
+  font-family: 'Merienda One', cursive;
+}
+
+.rammeto{
+  font-family: 'Rammetto One', cursive;
+}
+
+.megrim{
+  font-family: 'Megrim', cursive;
+}
+
+.life{
+  font-family: 'Life Savers', cursive;
+}
+
+.rozha{
+  font-family: 'Rozha One', serif;
+}
+
+.croissant{
+  font-family: 'Croissant One', cursive;
+}
+
+.goblin{
+  font-family: 'Goblin One', cursive;
+}
+
+
+
+
+.lobster {
+    font-family: 'Lobster', cursive;
+}
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
+.alegreya {
+    font-family: 'Alegreya', serif;
+}
+.amatic {
+    font-family: 'Amatic SC', cursive;
+}
+.yellowtail {
+    font-family: 'Yellowtail', cursive;
+}
+.fredoka {
+    font-family: 'Fredoka One', cursive;
+}
+.martel {
+    font-family: 'Martel', serif;
+}
+.ultra {
+    font-family: 'Ultra', serif;
+}
+.prompt {
+    font-family: 'Prompt', sans-serif;
+}
+.syncopate {
+    font-family: 'Syncopate', sans-serif;
+}
+.carter-one {
+    font-family: 'Carter One', cursive;
+}
+.cutive {
+    font-family: 'Cutive Mono', monospace;
+}
+.aclonica {
+    font-family: 'Aclonica', sans-serif;
+}
+.merienda {
+    font-family: 'Merienda One', cursive;
+}
+.racing {
+    font-family: 'Racing Sans One', cursive;
+}
+.arizonia {
+    font-family: 'Arizonia', cursive;
+}
+.chonburi {
+    font-family: 'Chonburi', cursive;
+}
+.redressed {
+    font-family: 'Redressed', cursive;
+}
+.londrina {
+    font-family: 'Londrina Shadow', cursive;
+}
+.emblema {
+    font-family: 'Emblema One', cursive;
+}
+
+
+
+
+@font-face {
+   font-family: 'absolute';
+   src: url('./Absolute.ttf');
+}
+.absolute {
+    font-family: 'absolute', cursive;
+}
+@font-face {
+   font-family: 'ampera';
+   src: url('Ampera.ttf');
+}
+.ampera {
+    font-family: 'ampera', cursive;
+}
+@font-face {
+   font-family: 'blackdiamonds';
+   src: url('Black Diamonds Personal Use.ttf');
+}
+.blackdiamonds {
+    font-family: 'blackdiamonds', cursive;
+}
+@font-face {
+   font-family: 'calling';
+   src: url('Calling Angels Personal Use.ttf');
+}
+.calling {
+    font-family: 'calling', cursive;
+}
+@font-face {
+   font-family: 'capital';
+   src: url('Capital Clickbait.otf');
+}
+.capital {
+    font-family: 'capital', cursive;
+}
+@font-face {
+   font-family: 'celestial';
+   src: url('CelestialFree.ttf');
+}
+.celestial {
+    font-family: 'celestial', cursive;
+}
+@font-face {
+   font-family: 'curvy';
+   src: url('Curvy.ttf');
+}
+.curvy {
+    font-family: 'curvy', cursive;
+}
+@font-face {
+   font-family: 'elitedanger';
+   src: url('elitedanger.ttf');
+}
+.elitedanger {
+    font-family: 'elitedanger', cursive;
+}
+@font-face {
+   font-family: 'lights';
+   src: url('Lights of the Stardust.ttf');
+}
+.lights {
+    font-family: 'lights', cursive;
+}
+@font-face {
+   font-family: 'rage';
+   src: url('Rage.ttf');
+}
+.rage {
+    font-family: 'rage', cursive;
+}
+@font-face {
+   font-family: 'gardens';
+   src: url('South Gardens Personal Use.ttf');
+}
+.gardens {
+    font-family: 'gardens', cursive;
+}
+@font-face {
+   font-family: 'eighteenth';
+   src: url('TheEighteenthAmendment-Light.ttf');
+}
+.eighteenth {
+    font-family: 'eighteenth', cursive;
+}
+/*
+<p class='anton'>Anton</p>
+<p class='Courgette'>Courgette</p>
+<p class='Sedgwick'>Sedgwick</p>
+<p class='Sedgwick-display'>Sedgwick-display</p>
+<p class='Ubuntu'>Ubuntu</p>
+<p class='VT323'>VT323</p>
+<p class='pressStart'>pressStart</p>
+<p class='Merienda'>Merienda</p>
+<p class='Montserrat'>Montserrat</p>
+<p class='UnifrakturCook'>UnifrakturCook</p>
+<p class='Nosifer'>Nosifer</p>
+*/

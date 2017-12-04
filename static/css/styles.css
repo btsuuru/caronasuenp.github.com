@@ -1,0 +1,80 @@
+.parallax-container {
+  height: 500px;
+}
+
+nav {
+  /*background-color: #DD2020;*/
+  background-color: #333;
+  z-index: 999;
+}
+
+body {
+  background-color: #EEE;
+}
+
+.app-principal {
+}
+
+.lamina {
+}
+
+.bgParallax {
+    color:#FFF;
+    margin: 0 auto;
+    width: 100%;
+    /*max-width: 1920px;*/
+    position: relative;
+    height: 300px;
+    min-height: 100%;
+    text-shadow:0 0 10px rgba(0,0,0,0.7);
+    background-size: cover;
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#pl1 {
+  background-image: url('https://gds.portal5g-media.com/contentFiles/system/pictures/2016/1/151923/original/viagem-de-carro.jpg');
+}
+
+#pl2 {
+  background-image: url('https://doutormultas.com.br/wp-content/uploads/2017/03/como-converter-multa-em-advertencia-dirija-com-cuidado.jpg');
+}
+
+::-webkit-input-placeholder {
+   color: black;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: black;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: black;
+}
+
+:-ms-input-placeholder {
+   color: black;
+}
+
+
+.modal {
+  background-color: #fafafa;
+  max-height: 90%;
+  width: 70%;
+  overflow: hidden;
+}
+
+/* GAMBIARRA NO CSS PRA FUNCIONAR O TABS DENTRO DO MODAL :S */
+/*.tabs .indicator {
+  display: none;
+}
+
+.tabs .tab a.active {
+  border-bottom: 2px solid #f6b2b5;
+}
+
+.page-footer {
+  background-color: #DD2020;
+  /*background-color: #333333;*/
+}*/
